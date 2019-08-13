@@ -37,8 +37,8 @@ black_list='black.list'
 blacklist_list='blacklist.txt'
 whitelist_list='whitelist.txt'
 regex_list='regex.list'
-ipalcoa_list='ipalcoa.txt'
-ipphiladelphia_list='ipphiladelphia.txt'
+ipalcoa='ipalcoa.txt'
+ipphiladelphia='ipphiladelphia.txt'
 ###########################################################################
 # FOR SHARED HOSTS MODE ONLY
 # RE-INITIALIZE WITH --initpush OR --initpull AFTER ENABLING THIS MODE
