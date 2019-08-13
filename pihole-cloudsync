@@ -37,8 +37,8 @@ black_list='black.list'
 blacklist_list='blacklist.txt'
 whitelist_list='whitelist.txt'
 regex_list='regex.list'
-ipaddress-alcoa='ipaddress-alcoa.txt'
-ipaddress-philadelphia='ipaddress-philadelphia.txt'
+ipaddress_alcoa='ipaddress-alcoa.txt'
+ipaddress_philadelphia='ipaddress-philadelphia.txt'
 ###########################################################################
 # SHOULDN'T NEED TO EDIT BELOW THIS LINE
 
